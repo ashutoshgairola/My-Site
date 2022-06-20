@@ -1,0 +1,171 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin: 3.125rem auto 0 auto;
+color: #66BFBF;
+  font-size: 5.625em;
+
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 8px;
+  align-self: auto;
+  color: #E4E3E3;
+  margin: 80px auto 80px auto;
+}
+
+p{
+line-height: 2;
+
+
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #E8FFFF;
+  padding: 100px;
+  padding-bottom: 0;
+}
+.dp{
+  margin-top: 70px;
+  width: 20%;
+}
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin: 0;
+  margin-top: 90px;
+
+
+}
+
+.btn {
+
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+
+  color: white;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+margin: 50px auto;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 370px;
+  top: 85px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 360px;
+  top: 280px;
+}
+
+.skill-row{
+  text-align: left;
+  margin: 90px auto;
+  width: 50%;
+
+}
+.skill-row2{
+  text-align: left;
+  margin: 160px auto;
+  width: 50%;
+}
+.s1{
+border-radius: 50%;
+
+  width:40%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+
+}
+.s2{
+  border-radius: 50%;
+  width:35%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 30px;
+
+}
+.s3{
+  border-radius: 50%;
+
+    width:35%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+
+
+}
+.cr{
+  color: white;
+}
+.footer-link{
+  margin: auto 20px;
+
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.last{
+  width: 30%;
+  margin: auto;
+  margin-bottom: 70px
+}
+.java:hover{
+    color: #66BFBF;
+}
